@@ -10,4 +10,5 @@ I have many hobbies, including role-playing games, creative writing, and art. My
 
 Please feel free to contact me to discuss relevant opportunities. I can't wait to hear from you!
 
+Find me on [LinkedIn](https://www.linkedin.com/in/zane-knightwood).
 
