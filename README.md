@@ -1,6 +1,6 @@
 ![Profile Banner: Image of library books with "Zane Knightwood, Software Developer" in white text.](https://github.com/zaneknightwood/zaneknightwood/assets/152318409/0e03be6f-8667-4cf9-b7e7-aed8ae550ad7)
 
-# Hi! I'm Zane.
+# Hi, I'm Zane :wave:
 
 I'm a recent graduate of Western Governors University (Dec '23) with a Bachelor of Science in Computer Science. I have acquired certifications in CompTIA Project+ and ITIL Foundations. I'm looking forward to starting my career in software development.
 
@@ -10,5 +10,9 @@ I have many hobbies, including role-playing games, creative writing, and art. My
 
 Please feel free to contact me to discuss relevant opportunities. I can't wait to hear from you!
 
-Find me on [LinkedIn](https://www.linkedin.com/in/zane-knightwood).
+:email: Find me on [LinkedIn](https://www.linkedin.com/in/zane-knightwood).
+
+:house_with_garden: Currently located in Michigan, USA.
+
+:flying_saucer: Open to relocation for the right role!
 
