@@ -16,3 +16,5 @@ Please feel free to contact me to discuss relevant opportunities. I can't wait t
 
 :flying_saucer: Open to relocation for the right role!
 
+:man_student: Interested in seeing my capstone project? You can find it [here](https://zaneknightwood.pythonanywhere.com/).
+
